@@ -1,7 +1,7 @@
-def using_times(phrase = Wingardium Leviosa)
+def using_times(phrase) = Wingardium Leviosa
   
-7.times do  #command the action ("puts")
-	  puts phrase == phrase "Wingardium Leviosa"  #the action
+7.times do
+	  puts phrase == phrase "Wingardium Leviosa"
 end
 
 
